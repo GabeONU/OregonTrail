@@ -1,4 +1,4 @@
-package OregonTrail;
+package OregonTrail.src;
 public class Item {
     //TODO
 }
