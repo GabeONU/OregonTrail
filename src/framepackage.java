@@ -1,4 +1,4 @@
-package frame;
+package OregonTrail.src;
 
 import java.awt.EventQueue;
 
