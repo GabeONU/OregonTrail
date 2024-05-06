@@ -1,4 +1,6 @@
 package OregonTrail.src;
 public class Main {
-    //TODO: Everything
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
 }
